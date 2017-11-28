@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PowDroid.iml" filepath="$PROJECT_DIR$/PowDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/powdroid/powdroid.iml" filepath="$PROJECT_DIR$/powdroid/powdroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/powdroid-sample/app.iml" filepath="$PROJECT_DIR$/powdroid-sample/app.iml" />
+    </modules>
+  </component>
+</project>
